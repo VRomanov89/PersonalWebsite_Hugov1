@@ -2,4 +2,4 @@ baseURL = 'https://vladromanov.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
-ignoreErrors: ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]  #toml
+ignoreErrors = ["error-remote-getjson"]
